@@ -1,3 +1,4 @@
+<div align="center">
 # NEXUS
 
 **Сетевые инструменты для Windows в одном окне**
@@ -6,7 +7,7 @@
 
 [**⬇️ Скачать последнюю версию**](https://github.com/folyaken/NEXUS-releases/releases/latest) · [**📣 Телеграм-канал**](https://t.me/nexus_flex)
 
-
+</div>
 ---
 
 ## Что это
